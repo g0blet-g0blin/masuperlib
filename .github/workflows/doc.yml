@@ -2,7 +2,7 @@ name: Build and deploy Doxygen documentation
 
 on:
   push:
-    branches: gh-pages
+    branches: main
 
 permissions:
   contents: read
